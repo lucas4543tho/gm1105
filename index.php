@@ -1,4 +1,4 @@
 <?php
-header("Location: https://www.walmart.com/browse/jewelry/promise-rings/3891_540912_1228412");
+header("Location: https://www.mcafee.com/consumer/en-us/store/m0/catalog.html");
 die();
 ?>
