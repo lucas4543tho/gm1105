@@ -1,4 +1,4 @@
 <?php
-header("Location: https://www.sarandipitypetcare.com/services");
+header("Location: https://www.turnerpest.com/commercial/services/");
 die();
 ?>
